@@ -1,5 +1,13 @@
-# IBM-Data-Science-Capstone-Project
-This Capstone is the 10th (final) course in IBM Data Science Professional Certificate specialization, and it actually summarizes in the form of project all materials that have been learned during this specialization.
+# Stock & Revenue Trend Analysis: A Business Intelligence Capstone Using Real-World Financial Data
+This project was completed as part of the IBM Data Science Professional Certificate Capstone on Coursera. It applies the full end-to-end data science process to analyze the relationship between a company’s stock prices and quarterly revenue over time.
+
+The main goals include:
+    -  Analyze trends between stock prices and company revenue
+    -  Explore temporal patterns (e.g., events, seasons) affecting performance
+    -  Build simple models to classify stock movement based on revenue
+    -  Use interactive visualizations for business insights
+    -  Compare financial behavior across companies and sectors (e.g., Tesla vs. Walmart)
+
 
 # Project Background
   This project explores the relationship between historical stock prices and company revenue over time. Using real-world data from companies like Tesla and Walmart, we investigate how internal financial metrics (like revenue) correlate with external market behavior (stock prices).
